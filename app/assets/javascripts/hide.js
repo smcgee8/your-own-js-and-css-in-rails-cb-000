@@ -3,5 +3,3 @@ function hideWhenClicked() {
 }
 
 $('#hide_this').on("click", hideWhenClicked);
-
-
